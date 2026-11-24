@@ -36,13 +36,6 @@ qwen-workspace/
 
 This project was created to provide a simple, user-friendly digital pass generation experience for Qwen Workspace community event attendees.
 
-## 👩‍💻 Author
-
-**Madhuri Baja**
-
-- GitHub: https://github.com/madhurib4555-glitch
-- LinkedIn: https://www.linkedin.com/in/madhuri-baja-140294371/
-
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
